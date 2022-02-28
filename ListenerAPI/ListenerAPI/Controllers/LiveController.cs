@@ -135,19 +135,19 @@ namespace ListenerAPI.Controllers
                         }
 
 
-                        //if ((Convert.ToDouble(cm.ConvertToUnixTimestamp()) > Convert.ToDouble(sensorTime))
-                        //    && (Convert.ToDouble(cm.ConvertToUnixTimestamp()) - Convert.ToDouble(sensorTime)) > 5270469)//5270469 2 months difference in sec
-                        //{
-                        //    Insert = false;
-                        //    break;
-                        //}
+                        if ((Convert.ToDouble(cm.ConvertToUnixTimestamp()) > Convert.ToDouble(sensorTime))
+                            && (Convert.ToDouble(cm.ConvertToUnixTimestamp()) - Convert.ToDouble(sensorTime)) > 5270469)//5270469 2 months difference in sec
+                        {
+                            Insert = false;
+                            break;
+                        }
 
-                        //if ((Convert.ToDouble(cm.ConvertToUnixTimestamp()) < Convert.ToDouble(sensorTime))
-                        //  && (Convert.ToDouble(sensorTime) - Convert.ToDouble(cm.ConvertToUnixTimestamp())) > 3600)//3600 1 Hr ahead
-                        //{
-                        //    Insert = false;
-                        //    break;
-                        //}
+                        if ((Convert.ToDouble(cm.ConvertToUnixTimestamp()) < Convert.ToDouble(sensorTime))
+                          && (Convert.ToDouble(sensorTime) - Convert.ToDouble(cm.ConvertToUnixTimestamp())) > 3600)//3600 1 Hr ahead
+                        {
+                            Insert = false;
+                            break;
+                        }
 
 
 
