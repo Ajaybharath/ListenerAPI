@@ -1,0 +1,454 @@
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.csprojResolveAssemblyReference.cache
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ApplicationInsights.config
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\csc.exe
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\vbc.exe
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll.config
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.pdb
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Owin.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Razor.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\WebGrease.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Razor.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.pdb
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.xml
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.dll
+D:\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.pdb
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ApplicationInsights.config
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\csc.exe
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\vbc.exe
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll.config
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.pdb
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Owin.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Razor.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\WebGrease.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Razor.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.pdb
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.xml
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.csprojResolveAssemblyReference.cache
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.dll
+E:\IB_IoT\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.pdb
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ApplicationInsights.config
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\csc.exe
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\vbc.exe
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll.config
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.pdb
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Owin.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Razor.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\WebGrease.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Razor.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.pdb
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.xml
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.csprojResolveAssemblyReference.cache
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.dll
+E:\IB_IoT\OneDrive - Ideabytes\IoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.pdb
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ApplicationInsights.config
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\csc.exe
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\vbc.exe
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll.config
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\ListenerAPI.pdb
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Owin.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Razor.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\WebGrease.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Razor.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.pdb
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.xml
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.csproj.AssemblyReference.cache
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.csproj.CoreCompileInputs.cache
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.csproj.CopyComplete
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.dll
+D:\IBIoT\API\ListenerAPI2\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.pdb
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\ApplicationInsights.config
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\csc.exe
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\vbc.exe
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll.config
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\ListenerAPI.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\ListenerAPI.pdb
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\EntityFramework.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Owin.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Http.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Razor.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\WebGrease.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.Web.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.ApplicationInsights.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Newtonsoft.Json.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Net.Http.Formatting.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Helpers.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Http.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Http.WebHost.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Mvc.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Optimization.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Razor.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Deployment.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.WebPages.Razor.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Antlr3.Runtime.pdb
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\EntityFramework.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\EntityFramework.SqlServer.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\bin\System.Web.Http.Owin.xml
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.csproj.AssemblyReference.cache
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.csproj.CoreCompileInputs.cache
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.csproj.CopyComplete
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.dll
+D:\ProjectGit\ListenerAPI\ListenerAPI\ListenerAPI\obj\Debug\ListenerAPI.pdb
