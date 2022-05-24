@@ -14,6 +14,7 @@ namespace ListenerAPI.Controllers
     [RoutePrefix("Live")]
     public class LiveController : ApiController
     {
+        
         SqlHelper sH = new SqlHelper();
         CommanResponse cr = new CommanResponse();
         Common cm = new Common();
@@ -430,10 +431,6 @@ namespace ListenerAPI.Controllers
 
             return resp;
         }
-
-
-
-
         public double ConvertToUnixTimestamp()
         {
             DateTime date = DateTime.Now;
